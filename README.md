@@ -1,4 +1,3 @@
-==Usage==
 from yzu import *
 student = Yzu(username, password)
 
